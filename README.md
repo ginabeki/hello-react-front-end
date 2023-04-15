@@ -43,9 +43,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🎨 Link to Frontend <a name="key-features"></a>
+## 🎨 Link to Backend <a name="key-features"></a>
 
-- [Frontend](git@github.com:ginabeki/hello-react-front-end.git)
+- [Backend](https://github.com/ginabeki/hello-rails-back-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
