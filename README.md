@@ -45,7 +45,7 @@
 
 ## 🎨 Link to Backend <a name="key-features"></a>
 
-- [Backend](https://github.com/ginabeki/hello-rails-back-end)
+- [Backend](https://github.com/ginabeki/hello-rails-back-end/tree/create-messages)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
